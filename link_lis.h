@@ -1,10 +1,10 @@
-#ifndef LINKED_LIST
+#ifndef LINKED_LIST// c ++ lib
 #define LINKED_LIST
 #include <iostream>
 
 using namespace std;
 
-template <class T>
+template <class T>//template
 class linked_list
 {
 	private:
